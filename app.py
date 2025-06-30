@@ -10,7 +10,7 @@ os.makedirs(UPLOAD_FOLDER, exist_ok=True)
 @app.route("/", methods=["GET", "POST"])
 def index():
     if request.method == "POST":
-        pdf = request.files["bank_pdf"]
+        pdf = request.files["pdf_file"]
         if pdf.filename.endswith(".pdf"):
             file_path = os.path.join(UPLOAD_FOLDER, pdf.filename)
             pdf.save(file_path)
