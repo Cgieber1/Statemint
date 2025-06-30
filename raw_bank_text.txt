@@ -1,0 +1,8 @@
+Apr 30, 2025 Interest Earned Interest earned $1.20 $1,400.71
+Transaction ID: 1041-1
+Apr 24, 2025 Direct Payment PAYPAL INST XFER -$14.15 $1,399.51
+Transaction ID: 1038-162602001
+Apr 24, 2025 Direct Payment VENMO PAYMENT -$99.57 $1,413.66
+Transaction ID: 1037-162601001
+Apr 24, 2025 Direct Payment CHASE CREDIT CRD EPAY -$1,225.13 $1,513.23
+Transa

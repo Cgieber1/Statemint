@@ -1,0 +1,5 @@
+Date,Description,Amount,Type,Category
+"Apr 30, 2025",Interest Earned Interest earned,$1.20,Credit,Interest
+"Apr 24, 2025",Direct Payment PAYPAL INST XFER,-$14.15,Debit,Online Payment
+"Apr 24, 2025",Direct Payment VENMO PAYMENT,-$99.57,Debit,Online Payment
+"Apr 24, 2025",Direct Payment CHASE CREDIT CRD EPAY,"-$1,225.13",Debit,Credit Card Payment
